@@ -43,7 +43,7 @@
     <li>Use <code>git status</code> to review which files have been modified.</li>
     <li>Use <code>git add</code> to stage your changes.</li>
     <li>Use <code>git commit</code> to save your changes.</li>
-    <li><i>Tip: Write clear commit messages [cite: 47] [cite_start]and review changes before committing.</i></li>
+    <li><i>Tip: Write clear commit messages and review changes before committing.</i></li>
   </ul>
 </details>
 
