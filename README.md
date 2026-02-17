@@ -22,14 +22,16 @@
 </details>
 
 <details>
-  <summary><b>3. Create a README.md</b></summary>
+  <summary><b>3. Edit the README File</b></summary>
   <ul>
-    <li>Add a new file named <code>README.md</code>.</li>
-    <li>Inside the file, please include:
+    <li>You'll see the <code>README.md</code> file in your repository.</li>
+    <li>Inside the file, please fill in for:
       <ul>
         <li>Your Name</li>
         <li>Your favorite food</li>
         <li>Your favorite color</li>
+        <li>Your favorite git command (e.g. status, commit, pull, push, etc.)</li>
+        <li>Your favorite building at UC Merced</li>
       </ul>
     </li>
   </ul>
