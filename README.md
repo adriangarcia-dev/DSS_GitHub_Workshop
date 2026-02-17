@@ -17,7 +17,7 @@
   <summary><b>2. Set Up Your Branch</b></summary>
   <ul>
     <li>Create a <b>new branch</b> using your name.</li>
-    <li>Use <code>git switch</code> to move onto your new branch.</li>
+    <li>Use <code>git switch -c "Name of Branch"</code> to move onto your new branch.</li>
   </ul>
 </details>
 
