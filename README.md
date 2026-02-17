@@ -22,9 +22,9 @@
 </details>
 
 <details>
-  <summary><b>3. Edit the README File</b></summary>
+  <summary><b>3. Edit the About_Yourself File</b></summary>
   <ul>
-    <li>You'll see the <code>README.md</code> file in your repository.</li>
+    <li>You'll see the <code>About_Yourself</code> file in your repository.</li>
     <li>Inside the file, please fill in for:
       <ul>
         <li>Your Name</li>
